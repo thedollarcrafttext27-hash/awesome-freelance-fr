@@ -162,6 +162,9 @@
 + [Pada1](https://www.pada1.app/) (aucune commission)
 + [Popcorn Nantes](https://popcorn-nantes.github.io/) (aucune commission) ([source](https://github.com/popcorn-nantes/popcorn-nantes))
 + [Pylote](https://pylote.io/) (diffusion sur 16+ plateformes)
+
++ [How to Find White Label Clients on Upwork](https://www.thedollarcraft.com/2026/09/white-label-clients-upwork.html) (guide for agencies)
++ 
 + [XXE](https://www.xxe.fr/) (aucune commission)
 
 ### Communautés
@@ -174,6 +177,7 @@
 ### Signature en ligne
 
 + [Blockusign](https://blockusign.co/)
+
 + [Documenso](https://documenso.com/)
 + [DocuSign](https://www.docusign.com/fr-fr)
 + [Dropbox Sign](https://sign.dropbox.com/)
